@@ -1,0 +1,106 @@
+:: StoryTitle
+Lledias Summer Adventures
+
+
+:: StoryData
+{
+  "ifid": "C2A0763A-A708-4DAC-8C8C-ECDA979D24D3",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Intro",
+  "zoom": 1
+}
+
+
+:: Intro {"position":"800,375","size":"100,100"}
+LLEDIAS SUMMER ADVENTURES
+EXT. JARDIN COLUMPIO - DIA
+CLAUDIA se columpia, IKER, LEÓN, PELAYO, ASIA, MATEO, MIGUEL y PONCHIN juegan.
+
+
+CLAUDIA
+Esconderos que voy a contar: 1,2,3…
+Salen todos corriendo
+
+MIGUEL
+AAAHHH A ESCONDERSE!!
+
+Fade out
+[[Intro2]]
+
+
+
+
+:: Intro2 {"position":"800,500","size":"100,100"}
+VOZ EN OFF
+Lo más piadoso del mundu, pienso yo, ye la incapacidá de la mente humana pa correlacionar tolos sos conteníos. 
+Fade in
+
+EXT. JARDIN FUENTE- DIA
+PELAYO corre hacia la puerta de los abuelos. LEON y IKER corren hacia el garaje
+ 
+
+Fade out
+[[Intro3]]
+
+
+
+:: Intro3 {"position":"800,625","size":"100,100"}
+VOZ EN OFF
+Vivimos nuna isla apacible d'ignorancia en mediu de mares negros d'infinitú, y nun taba escritu que tuviéramos que navegar lluenxe. 
+Fade in
+
+INT. PLANTA DOS VESTÍBULO - DIA
+MATEO y MIGUEL corren hacia la habitación de los niños.
+Fade out
+Fade in
+INT. PLANTA UNO SALON - DIA
+ASIA corre hacia el sofa.
+
+Fade out
+[[Intro4]]
+
+
+
+
+
+
+
+:: Intro4 {"position":"800,750","size":"100,100"}
+
+VOZ EN OFF
+Les ciencies, caúna esforzándose na so propia direición, fasta agora fixéronnos pocu dañu;
+ 
+Fade in
+INT. LABORATORIO SUBTERRANEO NAZI (SEPIA)
+la imagen es en sepia para resaltar que estamos en el pasado. ROTULO arriba derecha: Llanes - 1939. 
+científicos de la Ahnenerbe vestidos con batas blancas investigan tubos de ensayo. En la pared cuelgan tapices nazis intercalados con símbolos del ragnarok (una serpiente en un circulo comiendose a si misma). MALO camina entre ellos (travelling a la derecha), llega a un plano colgado de la pared de la zona de llanes y una cruz de la victoria colgada de la pared.
+
+Fade out
+[[Intro5]]
+
+
+
+:: Intro5 {"position":"800,875","size":"100,100"}
+
+VOZ EN OFF
+pero dalgún día l'axuntamientu de los conocimientos dixebraos abrirá unes vistes tan terribles de la realidá, y de la nuesa espantible posición nella,
+
+Fade in
+INT. DESVAN - DIA
+PELAYO a gatas, buscando un escondite, abre el baul del abuelo y saca un cuaderno negro y una cruz de la victoria igual a la de los nazis. En vez de esconderse se sienta a leer el cuaderno.
+
+Fade out
+[[Intro6]]
+
+
+:: Intro6 {"position":"800,1000","size":"100,100"}
+VOZ EN OFF
+ que o bien mos volveremos llocos cola revelación o fuxiremos de la lluz escontra la paz y la seguridá d'una nueva edá escura.
+Fade in
+CLAUDIA sigue columpiándose
+CLAUDIA
+18,19 ... y 20! Quien no se haya escondido tiempo ha tenido!
+CLAUDIA se baja del columpio y camina hacia la Fuente buscando a sus amigos.
+
+
