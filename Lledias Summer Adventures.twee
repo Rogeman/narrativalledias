@@ -12,6 +12,90 @@ Lledias Summer Adventures
 }
 
 
+:: Encontrados todos {"position":"675,1350","size":"100,100"}
+
+
+
+:: Encontrar a Asia {"position":"800,1125","size":"100,100"}
+Asia esta escondida bajo los cojines del sofa de una forma bastante evidente. 
+Los cojines se mueven y se ve una risita cada 5 segundos.
+
+
+<img width=600 src=./img/EsconditeAsia.png>
+
+[[Encontrar a Asia]]
+[[Encontrar a Leon]]
+[[Encontrar a Iker]]
+[[Encontrar a Pelayo]]
+[[Encontrar a Miguel y Mateo]]
+[[Encontrados todos]]
+
+
+:: Encontrar a Iker {"position":"675,1125","size":"100,100"}
+Iker esta escondido en lo alto de la magnolia. Se ve que la magnolia se agita de forma excesiva cada 5 segundos.
+
+Para encontrar a Iker hay que usar escoba con ramas.
+
+<img width=600 src=./img/EsconditeIker.png>
+
+
+[[Encontrar a Asia]]
+[[Encontrar a Leon]]
+[[Encontrar a Iker]]
+[[Encontrar a Pelayo]]
+[[Encontrar a Miguel y Mateo]]
+[[Encontrados todos]]
+
+
+:: Encontrar a Leon {"position":"925,1125","size":"100,100"}
+Leon esta escondido dentro de una caja de carton. en la parte de atras de la casa
+
+<img width=600 src=./img/EsconditeLeon.png>
+
+[[Encontrar a Asia]]
+[[Encontrar a Leon]]
+[[Encontrar a Iker]]
+[[Encontrar a Pelayo]]
+[[Encontrar a Miguel y Mateo]]
+[[Encontrados todos]]
+
+
+:: Encontrar a Miguel y Mateo {"position":"925,1250","size":"100,100"}
+
+Miguel esta escondido en el baño del vestibulo. Basta con abrir la puerta y entrar para encontrarle.
+Mateo esta escondido debajo de una de las literas en la habitacion de los niños
+
+<img width=600 src=./img/EsconditeMiguel.png>
+<img width=600 src=./img/EsconditeMateo.png>
+
+[[Encontrar a Asia]]
+[[Encontrar a Leon]]
+[[Encontrar a Iker]]
+[[Encontrar a Pelayo]]
+[[Encontrar a Miguel y Mateo]]
+[[Encontrados todos]]
+
+
+:: Encontrar a Pelayo {"position":"800,1250","size":"100,100"}
+Pelayo esta en el desvan leyendo el diario del abuelo. 
+Claudia no se atreve a subir al desvan porque le da miedo. 
+Si trata de subir se muestra el desvan lugubre y claudia se da la vuelta inmediatamente diciendo que no se atreve a pasar mas alla.
+Una vez encontrados a todos los demas puede pedirles que la acompañen al desvan que sola no se atreve a ir. Cuando todos la acompañan entonces se muestra el desvan normal, en el que esta pelayo con el diario del abuelo abierto.
+
+PELAYO
+..escontra la paz y la seguridá d'una nueva edá escura...
+
+
+<img width=600 src=./img/EsconditePelayo.png>
+
+[[Encontrar a Asia]]
+[[Encontrar a Leon]]
+[[Encontrar a Iker]]
+[[Encontrar a Pelayo]]
+[[Encontrar a Miguel y Mateo]]
+[[Encontrados todos]]
+
+
 :: Intro {"position":"800,375","size":"100,100"}
 LLEDIAS SUMMER ADVENTURES
 EXT. JARDIN COLUMPIO - DIA
@@ -26,6 +110,10 @@ MIGUEL
 AAAHHH A ESCONDERSE!!
 
 Fade out
+
+<img width=600 src=./img/Intro1-esconderos.png>
+
+
 [[Intro2]]
 
 
@@ -41,6 +129,10 @@ PELAYO corre hacia la puerta de los abuelos. LEON y IKER corren hacia el garaje
  
 
 Fade out
+
+<img width=600 src=./img/Intro2.png><br>
+<img width=600 src=./img/Intro3.png>
+
 [[Intro3]]
 
 
@@ -58,6 +150,10 @@ INT. PLANTA UNO SALON - DIA
 ASIA corre hacia el sofa.
 
 Fade out
+
+<img width=600 src=./img/Intro4.png><br>
+<img width=600 src=./img/Intro5.png><br>
+<img width=600 src=./img/Intro5-1.png><br>
 [[Intro4]]
 
 
@@ -77,6 +173,15 @@ la imagen es en sepia para resaltar que estamos en el pasado. ROTULO arriba dere
 científicos de la Ahnenerbe vestidos con batas blancas investigan tubos de ensayo. En la pared cuelgan tapices nazis intercalados con símbolos del ragnarok (una serpiente en un circulo comiendose a si misma). MALO camina entre ellos (travelling a la derecha), llega a un plano colgado de la pared de la zona de llanes y una cruz de la victoria colgada de la pared.
 
 Fade out
+
+<img width=600 src=./img/Intro6.png><BR>
+<img width=600 src=./img/ragnarok.jpg><BR>
+<img width=600 src=./img/Malo1.png><BR>
+<img width=600 src=./img/Malo2.png><BR>
+<img width=600 src=./img/Malo3.png><BR>
+
+<img width=600 src=./img/cruzvictoria.jpeg><BR>
+
 [[Intro5]]
 
 
@@ -91,6 +196,8 @@ INT. DESVAN - DIA
 PELAYO a gatas, buscando un escondite, abre el baul del abuelo y saca un cuaderno negro y una cruz de la victoria igual a la de los nazis. En vez de esconderse se sienta a leer el cuaderno.
 
 Fade out
+
+<img width=600 src=./img/Intro8.png>
 [[Intro6]]
 
 
@@ -103,4 +210,11 @@ CLAUDIA
 18,19 ... y 20! Quien no se haya escondido tiempo ha tenido!
 CLAUDIA se baja del columpio y camina hacia la Fuente buscando a sus amigos.
 
+<img width=600 src=./img/Intro10.png><BR>
+<img width=600 src=./img/Intro11.png>
 
+[[Encontrar a Asia]]
+[[Encontrar a Leon]]
+[[Encontrar a Iker]]
+[[Encontrar a Pelayo]]
+[[Encontrar a Miguel y Mateo]]
