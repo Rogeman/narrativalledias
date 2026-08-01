@@ -12,26 +12,123 @@ Lledias Summer Adventures
 }
 
 
-:: Encontrados todos {"position":"675,1350","size":"100,100"}
+:: \ Ir al club secreto {"position":"800,1625","size":"100,100"}
+Fade in
+INT. HABITACION DE LOS NIÑOS - NOCHE
 
+PELAYO, CLAUDIA, MIGUEL y MATEO se levantan de las literas, controlas a Pelayo, que tiene una linterna. Los demas le siguen.
+(En vez de meter una animacion que haga todo por el jugador, activo solo las opciones que lleven a donde quiero, de forma que estoy creando un pasillo por el que el jugador va de forma activa pero guiada)
+
+Sales de la habitacion, 
+bajas a la cocina, 
+vas a la parte de atras, 
+coges la bici, 
+sales por la portilla, 
+pasas la panaderia, 
+llegas a la ardina, 
+dejas la bici, 
+entras en la ardina 
+llegas a la capilla donde ya estan esperando Iker, Leon y Asia.
+
+
+<img width=600 src=./img/Panaderia1.png>
+<img width=600 src=./img/Panaderia2.png>
+<img width=600 src=./img/ArdinaNoche.jpeg>
+<img width=600 src=./img/CaminoArdina.png>
+<img width=600 src=./img/Ardina.png>
+<img width=600 src=./img/ArdinaDia.jpeg>
+<img width=600 src=./img/PuertaArdina.png>
+<img width=600 src=./img/CapillaArdina.png>
+
+[[en el club secreto]]
+
+
+:: El Sueño {"position":"800,1875","size":"100,100"}
+Pelayo camina entre la bruma. En realidad no es pelayo sino que el sprite se glitchea y va cambiando de leon a iker a los siete de vez en cuando.
+
+La muerte esta delante tuyo, guiando hacia donde tienes que ir.
+
+Caminas por la milla de oro de posada. Esta vacia. Llegas a la iglesia. El cura te espera. Te habla en Latin. Cthulhu arranca el techo de la iglesia. El cura lanza un magarayo tipo R-Type con la cruz y Cthulhu muere. La muerte se da la vuelta y se pira, desanimada.
+
+Fade in
+Nandando en el mar, unos tentaculos gigantes de un pulpo/cabeza de cthulhu te envuelven y te come.
+
+Fade in
+La peña de lledias se levanta. Es Cthulhu y aplasta las casas con un grito abisal.
+
+
+Fade in
+La xana le recibe peinandose con un peine de oro.
+
+XANA
+Bro, Bro, visti que vien el panoyu-supremo?
+
+PELAYO
+cuando?
+
+XANA
+pa santiago
+
+PELAYO 
+buf..
+
+XANA
+ya
+
+PELAYO
+...
+
+XANA
+Sacate un truco mazo de guapo bro, pinchate un chin de backflip en la cuerda del rio
+
+(Fade to white)
+
+<img width=600 src=./img/cthulhu.jpg>
+
+
+
+
+
+
+
+
+
+
+:: Encontrados todos {"position":"775,1275","size":"100,100"}
+[[Encontrar a Pelayo]] 
 
 
 :: Encontrar a Asia {"position":"800,1125","size":"100,100"}
 Asia esta escondida bajo los cojines del sofa de una forma bastante evidente. 
-Los cojines se mueven y se ve una risita cada 5 segundos.
+Los cojines se mueven y se ve una risita cada 5 segundos. No puedes seleccionar el sofa o a Asia directamente.
+
+El abuelo esta sentado en la mecedora haciendo un sudoku. Se hace el loco si le preguntas donde esta asia.
+
+ABUELO
+Asia? ni idea, hace meses que no la veo. Jijiji
+Asia? Donde podra estar.. jijiji
+Hmm.. ahora que lo dices, si, me parecio ver una niña pasar por aqui.. jijiji
+Que si hay escondido alguien en el sofa? Que es un sofa? no es la vida un gran sofa?
+
+Cuando agotas los dialogos, Asia no puede contener la risa y sale de su escondite entre carcajadas tirando los cojines al suelo.
 
 
 <img width=600 src=./img/EsconditeAsia.png>
 
-[[Encontrar a Asia]]
+
+
 [[Encontrar a Leon]]
 [[Encontrar a Iker]]
-[[Encontrar a Pelayo]]
 [[Encontrar a Miguel y Mateo]]
+​
 [[Encontrados todos]]
 
 
-:: Encontrar a Iker {"position":"675,1125","size":"100,100"}
+
+
+
+
+:: Encontrar a Iker {"position":"625,1125","size":"100,100"}
 Iker esta escondido en lo alto de la magnolia. Se ve que la magnolia se agita de forma excesiva cada 5 segundos.
 
 Para encontrar a Iker hay que usar escoba con ramas.
@@ -41,42 +138,47 @@ Para encontrar a Iker hay que usar escoba con ramas.
 
 [[Encontrar a Asia]]
 [[Encontrar a Leon]]
-[[Encontrar a Iker]]
-[[Encontrar a Pelayo]]
 [[Encontrar a Miguel y Mateo]]
+
 [[Encontrados todos]]
 
 
 :: Encontrar a Leon {"position":"925,1125","size":"100,100"}
 Leon esta escondido dentro de una caja de carton. en la parte de atras de la casa
 
+Cuando seleccionas la caja suena el sonido de alerta del metal gear y se mueve a otro lado. Para detenerlo tienes que usar el patin con la caja, leon se resbala y cae fuera de la caja revelando su posicion.
+
 <img width=600 src=./img/EsconditeLeon.png>
 
+
 [[Encontrar a Asia]]
-[[Encontrar a Leon]]
 [[Encontrar a Iker]]
-[[Encontrar a Pelayo]]
 [[Encontrar a Miguel y Mateo]]
+​
 [[Encontrados todos]]
 
 
-:: Encontrar a Miguel y Mateo {"position":"925,1250","size":"100,100"}
+
+
+:: Encontrar a Miguel y Mateo {"position":"1075,1125","size":"100,100"}
 
 Miguel esta escondido en el baño del vestibulo. Basta con abrir la puerta y entrar para encontrarle.
-Mateo esta escondido debajo de una de las literas en la habitacion de los niños
+Mateo esta escondido debajo de una de las literas en la habitacion de los niños. se ven unos ojos parpadeando. A Claudia le da miedo y manda a ponchin a explorar bajo la cama.
 
 <img width=600 src=./img/EsconditeMiguel.png>
 <img width=600 src=./img/EsconditeMateo.png>
 
+
 [[Encontrar a Asia]]
 [[Encontrar a Leon]]
 [[Encontrar a Iker]]
-[[Encontrar a Pelayo]]
-[[Encontrar a Miguel y Mateo]]
+
 [[Encontrados todos]]
 
 
-:: Encontrar a Pelayo {"position":"800,1250","size":"100,100"}
+
+
+:: Encontrar a Pelayo {"position":"800,1500","size":"100,100"}
 Pelayo esta en el desvan leyendo el diario del abuelo. 
 Claudia no se atreve a subir al desvan porque le da miedo. 
 Si trata de subir se muestra el desvan lugubre y claudia se da la vuelta inmediatamente diciendo que no se atreve a pasar mas alla.
@@ -85,15 +187,14 @@ Una vez encontrados a todos los demas puede pedirles que la acompañen al desvan
 PELAYO
 ..escontra la paz y la seguridá d'una nueva edá escura...
 
+Chicos, convoco una reunion del club secreto. Esta misma noche despues de que los mayores se vayan a dormir. La contraseña es "Victoria"
 
+Fade out
 <img width=600 src=./img/EsconditePelayo.png>
 
-[[Encontrar a Asia]]
-[[Encontrar a Leon]]
-[[Encontrar a Iker]]
-[[Encontrar a Pelayo]]
-[[Encontrar a Miguel y Mateo]]
-[[Encontrados todos]]
+<img width=600 src=./img/DesvanNormal.jpeg>
+
+[[ Ir al club secreto]]
 
 
 :: Intro {"position":"800,375","size":"100,100"}
@@ -174,7 +275,9 @@ científicos de la Ahnenerbe vestidos con batas blancas investigan tubos de ensa
 
 Fade out
 
+
 <img width=600 src=./img/Intro6.png><BR>
+<img width=600 src=./img/NaziHideout.jpeg><BR>
 <img width=600 src=./img/ragnarok.jpg><BR>
 <img width=600 src=./img/Malo1.png><BR>
 <img width=600 src=./img/Malo2.png><BR>
@@ -216,5 +319,40 @@ CLAUDIA se baja del columpio y camina hacia la Fuente buscando a sus amigos.
 [[Encontrar a Asia]]
 [[Encontrar a Leon]]
 [[Encontrar a Iker]]
-[[Encontrar a Pelayo]]
 [[Encontrar a Miguel y Mateo]]
+
+
+:: en el club secreto {"position":"800,1750","size":"100,100"}
+Los siete estan en el club secreto (la capilla de la ardina)
+
+PELAYO
+He encontrado el plano de un tesoro.
+
+LEON
+Donde?
+
+PELAYO 
+En el baul de las cosas del abuelo
+
+IKER
+Y como sabes que es un tesoro? Y por que nos has convocado en el club secreto por la noche en vez de contarnoslo tranquilamente mañana?
+
+PELAYO
+Mira
+En exactamente 100 años el sello debera renovarse o Chthulhu despertara de su sueño en R´lyeh 
+Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn
+en su casa de R'lyeh, Cthulhu espera soñando
+Parece ser que R´lyeh es una pronunciacion arcana de Lledias.
+(Muestra un plano en el que una de las coordenadas apuntan justo a la capilla de la ardina, y pone que algo supertocho ocurrira el 25 de julio de 2026. El dia de santiago. En tres dias, el tiempo apremia.)
+
+ASIA
+R´Lyehdias..lledias?
+
+El dibujo esta fechado: 25 de Julio 2026, Dia de Santiago.
+El papel del abuelo es en papel cebolla con un intrincado dibujo de chakras estilo masamune shirow. La capilla de la ardina marcada claramente. al ponerlo sobre el mapa de llanes se marcan siete puntos en el mapa donde habra siete puzzles que resolver. 
+
+Tras esta escena, los niños se van a a la cama y todos comparten el mismo sueño
+[[El Sueño]]
+
+
+<img width=600 src=./img/CapillaArdina.png>
